@@ -1,0 +1,9 @@
+Alguns comandos básicos do git
+
+Git init -> Inicializa um novo repositório git.
+Git status -> Apresenta o status/situação dos repositórios e arquivos.
+Git commit -m "mensagem" -> Define um ponto de verificação acrescentado a uma mensagem explicando a mudança do código.
+Git add . -> Adiciona todos os arquivos ao indice, preparando para o commit.
+Git push -> Envia as alterações ao repositório remoto.
+Git pull -> Recebe as atualizações do repositório remoto.
+Git clone -> Baixa os arquivos existentes de um repositório remoto.
